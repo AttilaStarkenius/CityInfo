@@ -30,6 +30,7 @@ namespace CityInfo.API
             app.MapControllers();
 
             app.Run();
+            //Console.ReadLine();
         }
     }
 }
